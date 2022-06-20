@@ -1,3 +1,5 @@
 # ignore csv and zip files
 *.csv
 *.zip
+
+.DS_Store
