@@ -1,6 +1,6 @@
 ## Overview
 
-Now that we've gotten a good idea of how to create our story, there is still some more work to be done to convince investors that a bike-sharing program in Des Moines is a solid business proposal. To solidify the proposal, one of the key stakeholders would like to see a bike trip analysis.
+A bike-sharing program in Des Moines is being proposed. To solidify the proposal, one of the key stakeholders would like to see a bike trip analysis for New York City's Citi Bike program. See the results of our analysis below. 
 
 ## Results
 
